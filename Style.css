@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.section1 {
+    background-color: #133A62;
+    color: white;
+    padding: 32px;
+    border-radius: 15px;
+    width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+
+.name {
+    margin: 16px;
+    padding: 16px;
+}
+
+.content {
+    margin: 16px;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 16px;
+    margin: 4px;
+}
+
+
+.section2 {
+    background-color: white;
+    border: solid lightgray;
+    border-radius: 16px;
+    padding: 32px;
+    width: 80%;
+    margin: 50px auto;
+}
+.aboutme {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.title {
+    border-bottom: solid lightblue;
+    margin: 16px;
+    margin: 24px;
+    color: darkblue;
+}
+
+h2 {
+    margin-bottom: 16px;
+}
+
+.img {
+    width: 30%;
+    float: left;
+}
+
+.content-about {
+    width: 70%;
+    float: right;
+    font-size: 24px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.content2 .img img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+    padding: 24px;
+    margin: 32px;
+    border: none;
+    font-size: 16px;
+}
+
+.home {
+    background-color: lightgray;
+    padding: 32px;
+}
+
+.content2 {
+    margin: 16px;
+    padding: 16px;
+}
+
+
+.section3 {
+    background-color: white;
+    border: solid lightgray;
+    border-radius: 16px;
+    padding: 32px;
+    width: 80%;
+    margin: 50px auto;
+}
+
+.myskills {
+    padding: 16px;
+    margin: 24px;
+}
+
+#Skills {
+    color: darkblue;
+    border-bottom: solid lightblue;
+    padding-bottom: 24px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    color: darkblue;
+    margin: 16px;
+    font-size: 24px;
+}
+
+.content3 {
+    margin: 8px;
+    width: 100%;
+}
+
+.html5 {
+    background-color: #FAFCFF;
+    border: solid lightblue;
+    border-radius: 5px;
+    padding: 24px;
+    margin: 2px;
+    width: 20%;
+    float: left;
+}
+
+.CSS3 {
+    background-color: #FAFCFF;
+    border: solid lightblue;
+    border-radius: 5px;
+    padding: 24px;
+    margin: 2px;
+    width: 20%;
+    float: left;
+}
+
+.jS {
+    background-color: #FAFCFF;
+    border: solid lightblue;
+    border-radius: 5px;
+    padding: 24px;
+    margin: 2px;
+    width: 20%;
+    float: left;
+}
+
+.React {
+    background-color: #FAFCFF;
+    border: solid lightblue;
+    border-radius: 5px;
+    padding: 24px;
+    margin: 2px;
+    width: 20%;
+    float: left;
+
+}
+
+.clearfix2 {
+    clear: both;
+}
+.section4 {
+    background-color: white;
+    border: solid lightgray;
+    border-radius: 16px;
+    padding: 32px;
+    width: 80%;
+    margin: 50px auto;
+}
+
+h4 {
+    font-size: 20px;
+    color: darkblue;
+}
+#Experience { 
+     color: darkblue;
+    border-bottom: solid lightblue;
+    padding-bottom: 24px;
+}
+
+.text {
+    background-color: #F8FAFC;
+    border-left: 10px solid darkblue;
+    margin: 32px;
+    padding: 24px;
+    border-radius: 10px;
+}
+.text2 {
+  background-color: #F8FAFC;
+    border-left: 10px solid darkblue;
+    margin: 32px;
+    padding: 24px;
+    border-radius: 10px;
+}  
+
+.title3 img {
+    width: 50px;
+    border: solid white 4px;
+    border-radius: 5px;
+    margin: 16px;
+    float: left;
+}
+.title5 img {
+    width: 50px;
+    border: solid white 4px;
+    border-radius: 5px;
+    margin: 16px;
+    float: left;
+}
+.title3 {
+    margin-bottom: 16px;
+}
+.title4 p {
+    margin-bottom: 16px;
+}
+.title5 {
+    margin-bottom: 16px;
+}
+.title6 p {
+    margin-bottom: 16px;
+}
+.section5 {
+    background-color: #133A62;
+    color: white;
+    padding: 32px;
+    border-radius: 15px;
+    width: 80%;
+    margin: 80px auto;
+}
+#Contact {
+    border-bottom: white solid ;
+         color: white;
+    padding-bottom: 24px;
+    font-size: 24px;
+}
+.paragraph {
+    margin: 24px;
+padding: 16px;}
+
+.Section6 {
+    background-color: #06152A;
+    color: white;
+    padding: 32px;
+    border-radius: 15px;
+    width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+span { 
+    color: lightblue;
+}
